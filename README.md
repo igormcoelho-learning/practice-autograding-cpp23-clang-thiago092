@@ -11,7 +11,7 @@ the activity* and hit the link named **update**.
 
 If you want to practice this activity, just follow this link: (TODO: update)
 
-## Full-Name-Of-Student
+## Thiago Augusto Fernandes de Carvalho
 
 **TODO - Please put your name in this README**
 
